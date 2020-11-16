@@ -1,0 +1,61 @@
+Working directory: Es el area de trabajo local, 
+es por ello que para guardar los cambios,
+hay que pasarlos al staging area
+
+Staging area: Es el area de preparación
+es acá donde se almacena todo antes de hacer un commit 
+confirma los cambios
+
+git repository: Es el repositorio en 
+donde se almandenan los cambios del proyecto
+
+Lo primero es identificarnos:
+
+git config --global user.name "lLeonardo Sarmiento"
+git config --global user.email "clesalca@gmail.com"
+
+Crear repositorio
+mkdir -> crea el working directory
+git init  -> crea el repositorio
+
+touch myfile{1..10}.txt -> crea archivos en masa 
+git add myfile1.txt -> añade el archivo al staging area
+git status -> vemos los archivos que ya hemos agrgados al staging area y archivos sin seguimiento
+git add . añade todos los archivos sin seguimiento
+se vuelve a corroborar con el git status
+git rm --cached nombre.txt -> cuando quiera sacar un archivo del staging area
+
+git commit -> me confirma que quiero llevar esos archivos al repostorio
+git commit -m "Se pone el msensaje del que falto"
+
+git add file ->si quiero actualizar la modificacion que le hice a un archivo antes de enviarlo
+git restore file ->  si quiero pasar por alto el cambio que le hice despues del primer add commit
+
+Si borro un archivo una vez ya este el commit git lo sabra
+
+Cuando se renombra un archivo
+
+Para descargar la nueva versiond e git:
+https://openwebinars.net/blog/como-instalar-git-en-ubuntu/
+https://github.com/git/git/releases
+
+Para restaurar un archivo 
+git checkout -- 
+git checkout -- archivo
+
+========Push y Pull =================
+Pull para descargar los archivos de una rama en especifico
+
+Para remover un remoto:
+git remote rm <remote-name>
+
+Se puede añadir un origen en el mismo equipo
+git remote add origin /home/leonardo/repo/proyecto1/.git/
+git pull origin master -> para jalar los archivos del origen al repositorio local
+
+git branch --all  -> permite listar las ramas
+
+git push origin remotes/origin/master -> para poner archivos en origin master
+
+Si se quiere forzar a que suba  un archivo a la rama master
+git push origin master --force

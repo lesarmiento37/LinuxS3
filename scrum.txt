@@ -1,0 +1,331 @@
+Desarrollo de software:
+Usualmente llamado Waterfall:
+
+Análisis
+Diseño
+Codificación
+Prueba
+Despliegue
+
+
+Tiempo al mercado: La gente se queja del tiempo que demora en plasmar ideas en productos tangibles
+Baja rentabilidad: El tiempo que toma lanzar un procuto si es elevado puede aumentar el costo, minimizando la rentabilidad en el tiempo
+No pensados en la usabilidad en el lado del cliente: El entregable no es lo que el cliente necesita
+Pobre productividad de los equipos: Los recursos disponibles no son usados de forma equitativa o uniforme
+Tendencia a trabajar de mas: Es necesario replantear muchos aspectos del proyecto
+Problemas con la callidad
+Fuertes restricciones
+
+Debido al ciclo de vida de proyectos de software
+
+Modelos de desarrollo rápido de aplicaciones
+Modelos en espiral
+El término agil
+
+Gerencia de proyectos agile
+Importancia (Calidad Extrinseca) 
+Restricciones
+Calidad
+
+Ciclo de vida del proyecto
+Inicio
+Planificación iterativa Iteración (realimentación)
+Ejecución agile se ejecuta a traves de iteeraciones
+Control se encarga de revisar el proceso planes y se debe llevar un registro se debe llevar mano mano con la ejecución
+Cierre llevar a cabo la conclusión del proyecto
+
+Pasos en la gerencia de proyectos de agile
+Preivisión: Determina la visión de producto y alcance del proyecto y la forma en la que el equipo va a trabajar
+Especulación crea un mapa de alto nivel del pryecto basado en la información disponible, plan tenttivo
+Exploración el equipo comenzara a crear caracteristicas innovar
+Adaptacion, el equipo se basa en el feedback para adaptarse
+Cierre del proyecto
+
+Estructura de Gerencia de proyectos agile
+Se basa en crear productos innovadores
+Se trata de una serie de pasos que van desde la visión inicial del producto hasta el producto final.
+
+Desarrollo tradicional de software, baja tolerancia a riesgos
+
+Scrum
+
+Metodología Agile con practicas especificas construidas alrededor los principios de desarrollo gradual e iterativo
+
+Es el nombre con el que se denomina a los marcos de desarrollo agiles caracterizados por:
+
+Adoptar una estrategia de desarrollo incremental en lugar de la planificacion y ejecucion completa del producto
+basar la calidad de resultado mas en el conocimiento tacito de las personas en equipos autorganicados que en la calidad de los procesos empleados
+solapamiento de las diferentes fases del desarrollo en lugar de realizar una tras otra en un ciclo o en cascada
+
+Scrum es un mrco de trabajo por el cual las personas pueden abordar problemas complejos adaptativos, a la vez que entregar productos del máimo valor
+posible productiva y creativamente
+
+en la guia de scrum dice que es lliviano facil de entender y dificil de llegar a dominar
+
+Scrum es un marco de trabajo de procesos que ha sido usado para gestionar el desarrollo de productos complejos
+
+================Scrum Master
+Manifiesto agile
+
+Individuos e iteraciones sobre procesos y herramientas
+Software funcionando sobre la documentacion extensiva
+Colaboracion con el cliente sobre la negociacion contractual
+Respuesta ante el cambio sobre seguir un plan
+
+Valorar mas a los individuos y su interaccion que a los procesos y las herramientas:
+Valorar mas el sofware que funciona que la documentación exhaustiva
+Valorar mas la colaboración con el cliente que la negociación contractual
+Valorar mas la respuesta al cambio que el seguimiento de un plan
+
+=============Principios del manifiesto de agile====================
+1. Nuestra mayor prioridad es satisfacer al cliente mediante la entrega temprana y continua de software con valor
+2. Aceptamos que los requisitos cambien, incluso en las etapas tardías del desarrollo.
+   Los procesos agiles aprovechan el cambio para proporcionar ventaja competitiva al cliente.
+3. Entregamos software funcional frecuentemente, entre dos semanas y dos meses, con preferencia al periodo de tiempo mas corto posible
+4. Los responsables de negocio y los desarrolladores trabajamos juntos de forma cotidiana durante todo el proyecto
+5. Los proyectos se desarrollan en torno a individuos motivados. Hay que darles el entorno y el apoyo que necesitan, y confiarles la ejecución del trabajo.
+6. El método mas eficiente y efectivo de comunicar información al equipo de desarrollo y entre sus miembros es la conversación cara a cara
+7. El software funcionando es la medida principal del progreso.
+8. Los procesos agiles promueven el desarrollo sostenible. Los promotores, desarrolladores y usuarios debemos ser capaces de mantener un ritmo constante de forma indefinida
+9. La atencion continua a la excelencia técnica y al buen diseño mejora la agilidad
+10. Las mejores arquitectuas, requisitos y diseño emergen de equipos auto organizados
+11. A intervalos regulares el equipo reflexiona sobre como ser mas efectivo para a continuación ajustar y perfeccionar su comportamiento en consecuencia
+
+============Metodologías ágiles ==========================
+Propiedades en proyectos cristal
+
+Entrega frecuente 
+Mejora reflexiva
+Comunicación cercana
+Seguridad personal
+Concentración
+Fácil acceso a usuarios expertos
+Entorno técnico
+
+Muestras de crystal
+
+Cristal orange
+
+Trabaja con un equipo de 30 a 50 personas 
+Cadapersona tiene una clara descripción de su trabajo
+
+Crystal Clear 
+Trabaja con un equipo de 3 a 10 personas 
+
+Crystal Yellow orange-web  para el desarrollo web
+
+Metodologia dinamica de desarrollo de sistemas
+
+Involucrar al usuario final asegura que el producto final se construya de forma correcta
+Los requerimientos evolucionan pero el tiempo de entrega sigue siendo el mismo
+Entrega rápida asegura el pago rapido
+Aplica la regla 80/20 valor de un proyecto proviene un 20% de las funciones
+Nada se construye de manera perfecta al primer intento
+
+Programacion extrema
+
+Es un sistema de prácticas que una comunidad de desarrolladores de software está evolucionando para atacar el problema de la rápida entrega de software de calidad y 
+hacerlo evolucionar para satisfacer las necesidades del mercado
+
+Valores Xp
+
+Comunicación 
+Simplicidad
+
+Desarrollar iterativamente - priorizar las funciones arriesgadas
+Manejar requisitos
+Emplear arquitectura basada en componentes
+Modelar el software visualmente usando uml
+verificar la calidad continuamente
+controla los cambios
+
+Fases en el ciclo de vida
+Comienzo y origen de idea
+Elaboración la idea es traducida en un conjunto de requerimientos 
+Construcción los requisitos son construidos y se vuelven reales
+Transicion cuando el proyecto es completado y se traslada a funciones de operacion
+
+Modelado en torno al negocio, requisitos, analisis y diseño, implementación prueba y desarrollo
+
+Ciclo de vida de scrum
+
+El producto de desarrolla con base en inputs (requerimientos) 
+Es trabajo del dueño del producto de recoger estos datos para generar tareas para el equipo de trabaho
+Una vez se tiene la lista se debe trabajar en sprint o iteraciones
+Durante el sprint el equipo toma una serie de tareas para llevar el software a un punto de calidad cercano al lanzamiento
+Revisión se miran los resultados de la ejecución de tareas
+Retrospectiva comparación de los sprint
+
+=========================Roles del Scrum
+Partes intertesadas Cualquier persona que pueda ejercer influencia sobre el proyecto
+Dueño del producto, desarrolladores
+Gerencia
+Cliente 
+Usuarios finales
+Vendedores o contribuyentes externos
+Personas cuyos roles son afectados por el proyecto
+
+En la gerencia de proyectos esto es RACI
+Responsible
+Accountable
+Consulted 
+Informed
+
+Dirección de las partes interesadas
+Cada miembro del equipo tiene cierta influencia
+Identificar a las partes interesadas y entendeer a que clase pertenecen
+Evaluar conocimienrto y habilidades
+Analizar el proyecto y asegurarse de que se cumplen sus necesidades
+Involucrarse y mantenerse en el proyecto asignando trabajos y atreas
+obtener la acptación del proyect durante el cierre del mismo
+
+Dueño del producto
+Rol crítico en Scrum
+La funcion principal de este rol es proveer dirección al equipo y decirle al equipo que hacer y establecer al orden de prioridades preferido sobre el cual se llevará a cabo el proyecto
+Este rol es representativo del cliente, lo cual lo autoriza a tomar ciertas decisiones del cliente
+Toma inputs de todas las partes interesadas
+Traduce requerimientos
+Determina el plan general de lanzamiento con ayuda del equipo
+Participa en las reuniones de scrum
+Direccion del proyecto
+Disponible para el equipo para responder preguntas y proveer el feedback
+
+Priorización
+Priorizar los requisitos en la lista de productos 
+Es escencial para asegurar que el tiempo y presupuesto disponible 
+Posible justificacion de funciones
+Nuevos ingresos 
+Incrfemento de riesgos
+Eficiencia operacional
+Superar a competidores
+
+Priorizacion basada en importancia y riesgo
+Las funciones que sonm importantes y tienen poco riesgo serán realizadas primero
+Las funciones que son importantes y tienen cierto riesgo seran las siguientes 
+las funciones de poca importancia y poco riesgo seran las ultimas
+las funciones que son dde poca importancia y alto riesgo no  seran realizadas
+
+Analisis de costos y beneficios
+Determina el alcance de la inversión
+Precide las inversiones necesaris
+
+MosCOw
+
+Must se debe alta prioridad y casi no negociable
+Should Se deberia alta prioridad o altamente deseable
+could se podria bueno para lograr pero no es obligatorio
+wont no requerido perdida de tiempo no se hara
+
+Priorizacion requerimientos
+
+Debe tenerse Aquellas que deben estar presentes en el producto para que sea exitoso
+Funciones lineales: Aquellas donde la satisfacción está relacionada linealmente con la cantidad de funciones
+Encantadoras: Aquellas que proveen gran satisfacción, a menudo convirtiendo al producto en producto premium, Sin embargo
+ la falta de este tipo de funciones no reducira la satisfaccion por debajo del promedio
+
+Metodo de peso relativo
+Este es un modelo simple y ordenado basandose en todos los factores que afectan la prioridad
+determina el valor de la presencia de la funcion y tambien el impacto negartivo que puede ser causado por la ausencia de esa misma funcion
+se basa en criterio
+liderado por el dueño del producto pero en forma conjunta con el equipo evalua cada funcion
+cada funcion se puntia del 1 al 9
+despues de analizar todas las caracteristicas, se calcula la prioridad de cada una considerando los factores ya mencionados
+ sera un poco mas sencillo determinar las prioridades del proyecto
+
+
+Scrum Master
+Ayuda al equipo a lograr los objetivos
+Servir al equipo
+Protegiendo el equipo
+Facilita la interacción del equipo
+remueve los obstaculos que bloquean al equipo
+Provee el soporte en el uso de Scrum
+Verifica que la metodología usada es la correcta
+
+No debe dirigir al equipo
+No debe dirigir a los miembros del equipo
+No debe asignar tareas
+No debe conducir al equipo
+No debe tomar decisiones en nombre del equipo
+No debe dirigir estrategias del producto
+
+El equipo los desarrolladores
+Todos contribuyen al desarrollo del producto
+el equipo es multifuncional
+deben tener todas las habilidades necesarias para completar lo requerido por el cliente
+
+Los miembros necesitan colaborar internamente
+Busca personas que sean buenas en la comunicacion y sepan trabajar en equipo
+
+Testers que puedan codificar
+Necesitas un grupo de personas altamente motivadas que puedan tomar decisiones
+Personas que promuevan una buena actitud
+
+===========Artefactos 
+Representan trabajo o valor en diversas formas que son utiles para proporcionar transparencia y oportunidades para la inspeccion y adaptacion
+
+Backlog lo que aun deberia hacerse
+Es una gama de tareas que el equipo podria realizar para añadir funciones o caracteristicas para el producto final del cliente
+Todos los obketicos Deben ser ordenados en un cierto orden de prioridad determinado por el dueño del producto
+El dueño del producto Tener una buena cantidad de detalles bien definidos para los siguientes 2 o 3 sprints
+estas descripciones son suministradas por el Dueño del prodcuto mediante consulta con las partes interesadas, el tamaño es expresado 
+Cada objeto en la lista de procutos es una breve descripcion del requerimiento o cambio que es necesario para cumplir la necesidad del cliente
+El tamaño es expresado en unidades y es dado por el equipo
+Requerimientos funcionales, técnicos, no funcionales.
+
+Producto Release y Sprint Backlog
+
+La lista de pendientes del sprint es el conjunto de elementos de la lista de productos seleccionados para el sprint
+La lista de produtos de lanzamiento podría estar expresada en términos de historias
+La lista de productos del sprint debería estar expresada en términos de sub-historias y tareas específicas para completar historias o sub-historias en particular
+
+Historia del Usuario
+Es la unidad mas granular de requerimientos expresados por el medio del producto
+cada historia es un medio que recopila informacion basica, registra los requerimientos en un alto nivel, define las pruebas de aceptacion para validar el cumplimiento excitoso
+La historia del usuario describe como el usuario interactua para llevar a cabo el trabajo
+Componentes de la historia del usuario
+Carta: Detallar historia del usuario
+COnversación: La historia del usuario deberia detallar los detalles de implementacion
+Confirmacion: Deberída dejar en claro si el trabajo cumple los requisitos o no
+
+Invest -> Independientes, Negociable, Valorable, Estimable, Pequeño, Evaluable 
+
+Prioridad es el orden en el cual se toman los requerimientos a implementar
+Estimacion  Volumen de trabajo involucrado
+
+Epica o Epopeyas
+
+Forma de agrupar historias basados en objetivos de alto nivel o simplemente agrupar pequeñas historias en una mas grande
+Puedes incluir historias para concertar las dudas o consultas en la base de datos.
+
+Separando las historias del usuarii
+
+Una historia debería ser corta no mas de 40 horas de trabajo
+Mantener cortas historias permite al equipo construir de forma crecuiente, obteniendo verificción a lo largo del camino
+Requiere un esfuerzo considerable de parte del Dueño de producto el escribir requerimientos a ese nivel de granularidad
+
+Build vs buy: Tomar tiempo en no inventar la rueda dos veces
+
+Experiencia del usuario
+Traabja primero en un uusario unico antesd de pensar en un multiusuario
+Manten lejos las interacciones del usuario por algun tiempo, implementar un sistema de lotes para luego ponerlo en linea
+Construye una interfaz de usuario elegante despues, primero ocupate de la interfaz programática
+Primero usa los componentes disponibles para usar algo de manera rapida, luego trabaja en la personalización de la interfaz
+
+Una funcion puede contener una o mas historias o historiales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

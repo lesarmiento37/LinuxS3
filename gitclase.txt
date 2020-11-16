@@ -59,3 +59,106 @@ git push origin remotes/origin/master -> para poner archivos en origin master
 
 Si se quiere forzar a que suba  un archivo a la rama master
 git push origin master --force
+
+============Manejo de Ramas================
+Una rama es una version de nuestro código
+Git nos permite movernos entre versiones de forma sencilla
+
+La creación de ramas nos permite trabajar en diferentes versiones de un mismo archivo y cuando lo consideremos podremos fusionar los cambios
+
+Cada vez que creamos una rama, se crea un nuevo puntero a la versión indicada o a la que estamos trabajando. Se van a emplear comandos git banch y git checkput
+
+git checkout -b nombre rama -> crea rama
+
+git  branch nombre de rama -> crea rama
+
+git chekcout nombre rama
+
+git switch nombre rama -> va hacia una rama
+
+para devolverse a la rama anterior:
+
+git switch -c nombre rama
+
+si me quiero devolver a la rama anterior 
+
+git switch - 
+
+Si quiero examinar un commit
+
+git log --oneline
+
+git switch --detach idDeRama
+
+para eliminar una rama:
+git branch -d nombreRama
+
+MERGE
+Rama principal
+git chekout -b nombreRama -> para movernos a otra rama
+git switch -c interactivo/leonardo  crear y movernos a una rama
+Nos paramos en master y se pone
+git merge interactvo/leonardo  -> Traeme los cambios de la rama interactivo hacia master
+
+Para resolver conflictos en merge
+se modifica el archivo y decido con cual me quedo
+
+git log -> muestra el log del commit
+
+Se tiene que poner el nombre del autor del comit
+git log --oneline --prety --all --graph
+
+Para recuperar archivo eliminado:
+git log --oneline   -> se genera id de commit
+
+Nos movemos a una rama temporal 
+
+git checkout idCommit
+git switch -c recuperado
+
+O se puede deshacer la operacion se pone
+git switch -
+
+Hay otra opcion:
+git log --oneline --name-status --diff-filter=D   -> muestra en el log lo eliminado
+git checkout idCommit nombreDirectorio
+git commit -m "Se añade el directorio eliminado"
+
+Tag en git
+Tagear commit
+git config alias.logp "log --oneline --pretty --all --graph"
+para tagear el commit
+git tag v10 
+git logp
+se añaden archivos
+touch playbook{12..15}.yaml
+git tag v11 idCommit
+
+gitignore
+
+se crea un fichero .gitignore
+nano .gitgnore
+nombreDirectorio
+
+vim .gitgnore 
+se pone wildcard
+*.php
+*.yaml
+
+
+============Github =====================
+git remote -v   muestra los repositorios 
+
+mandar ramas a un repositorio remoto
+
+crear un fichero con peso
+fallocate -l 10M nombreArchivo
+
+Se corrobora con:
+du -hs nombreArchivo
+
+Para que se envíen todas nuestras ramas
+git push -u origin --all
+
+
+

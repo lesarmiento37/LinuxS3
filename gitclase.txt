@@ -160,5 +160,12 @@ du -hs nombreArchivo
 Para que se envíen todas nuestras ramas
 git push -u origin --all
 
+Eliminar ramas remotas
+git clone url remoto con ssh
+se verifican las ramas 
+eliminar rama remota
+git push -d origin nombreRama
+git push origin :nombreRama
 
-
+Para descargar cambios
+git pull

@@ -1,3 +1,4 @@
+
 docker run hello-world
 1 comprueba si tiene la plantilla en local, como no la va a encontrar, entonces se va a dockerhub
 que es donde docker donde tiene subidas un monton de plantillas.

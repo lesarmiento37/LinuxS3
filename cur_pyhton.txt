@@ -1,3 +1,6 @@
+
+
+
 para acceder a python también se puede por jupyter.org
 
 === variables========

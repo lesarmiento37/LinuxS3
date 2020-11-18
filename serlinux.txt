@@ -1,4 +1,5 @@
 
+
 =============CURSO LINUX==============
 tty identificador de terminal dinamico
 Un usuario puede para saber que terminales hay /etc/security

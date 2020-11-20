@@ -169,3 +169,5 @@ git push origin :nombreRama
 
 Para descargar cambios
 git pull
+
+Si hay problemas de instalación, toca poner nano /etc/apt/sources.list y cambiar los .co por nada
